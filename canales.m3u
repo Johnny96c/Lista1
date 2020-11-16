@@ -3,8 +3,8 @@
 #EXTINF:-1 group-title="Deportes", GOL TV
 https://live.televisiongratishd.com/tvplus2021/7_.m3u8?token=hBcXLKUE9E2tiCw4iwVC6g&expires=1605568098
 
-#EXTINF:-1 group-title="Deportes", TNT DEPORTES
-https://ul.cdn946.net:8443/hls/af5vsomb.m3u8?s=2kKs60AAxQemAY4mFC_n2g&e=1605568062
-
 #EXTINF:-1 tvg-chno="10" group-title="FOX SPORTS FUTBOL", FOX SPORT
 https://live.televisiongratishd.com/tvplus2021/12_.m3u8?token=VHOAXMHGcBmQPJCT2atV5w&expires=1605567947
+
+#EXTINF:-1 group-title="Deportes", TNT DEPORTES
+https://ul.cdn946.net:8443/hls/af5vsomb.m3u8?s=2kKs60AAxQemAY4mFC_n2g&e=1605568062
