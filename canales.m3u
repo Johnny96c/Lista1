@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cnet3.cbsistatic.com/img/_LdDGtGE8peOLrJGZvMskfKhEOE=/1200x675/2019/07/23/ccfb965a-f48a-44e2-8f74-329a4321f59e/goltv.jpg"
+group-title="DEPORTES",GOL TV
+https://live.televisiongratishd.com/tvplus2021/7_.m3u8?token=hBcXLKUE9E2tiCw4iwVC6g&expires=1605568098
+
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1565373169000/sites/tntsports/arte/apps/precomposed.png_285119621.png"
+group-title="DEPORTES",TNT SPORTS
+https://ul.cdn946.net:8443/hls/af5vsomb.m3u8?s=2kKs60AAxQemAY4mFC_n2g&e=1605568062
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/1200px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png"
+group-title="DEPORTES",FOX SPORTS PREMIUM
+https://live.televisiongratishd.com/tvplus2021/10_.m3u8?token=2J6GNKOy0IhXLQh7u-0QYA&expires=1605568032
+
+#EXTINF:-1 tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://www.dossiernet.com/assets/uploads/images/FOXSPORTS_COLOR-01.jpg&w=1200&h=800&zc=1&q=80"
+group-title="DEPORTES",FOX SPORTS
+https://live.televisiongratishd.com/tvplus2021/12_.m3u8?token=VHOAXMHGcBmQPJCT2atV5w&expires=1605567947
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png"
+group-title="DEPORTES",FOX SPORTS 2
+https://live.televisiongratishd.com/tvplus2021/13_.m3u8?token=Ezsgf9xpsr1WlpEUjK0qtw&expires=1605567902
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png"
+group-title="DEPORTES",FOX SPORTS 3
+https://live.televisiongratishd.com/tvplus2021/14_.m3u8?token=9oFOlR1HHgKPwQblfqnctQ&expires=1605567628
